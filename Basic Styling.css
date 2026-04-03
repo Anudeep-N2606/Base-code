@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    padding: 20px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.menu a {
+    display: block;
+    margin: 10px;
+    font-size: 18px;
+}
